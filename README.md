@@ -19,7 +19,7 @@
 
  ![JavaScript](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Ramos)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Ramos)
  
  [link]: www.linkedin.com/in/carolina-ramos-3873bb24a
 
