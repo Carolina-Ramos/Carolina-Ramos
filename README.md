@@ -21,7 +21,7 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-Ramos)
  
- [link]: www.linkedin.com/in/carolina-ramos-3873bb24a
+ [link]: www.linkedin.com/in/carolina-pereira-ramos
 
 <!--
 **Carolina-Ramos/Carolina-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
